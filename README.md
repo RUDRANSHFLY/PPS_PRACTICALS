@@ -79,26 +79,23 @@ heightgreater than 170 and weight less than 50,
 
 29. Write a program to print following patterns :
 
-1.(
+1.
     *
     * * 
     * * * 
     * * * *
     * * * * *
-)
 
-2.(
+2.
         *
        * *
       * * * 
      * * * *
     * * * * *
-)
 
-3.(
+3.
     *****
     ****
     ***
     **
     *
-)
