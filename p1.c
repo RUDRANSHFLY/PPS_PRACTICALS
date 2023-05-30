@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
 
-
 static void calcu(int c){
     int a , b , r;
     printf(" Enter 1st Number :- ");
@@ -36,7 +35,6 @@ static void calcu(int c){
         break;
     }
 }
-
 
 int main() {
     printf("Calculator_Program");
