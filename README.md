@@ -9,8 +9,10 @@ division,subtraction).
 2. Write a program to find area of triangle(a=h*b*.5)
     a = area h = height b = base
 
-3. Write a program to calculate simple interest (i = (p*r*n)/100 )i = Simple interest
-    p = Principal amountr = Rate of interest
+3. Write a program to calculate simple interest (i = (p*r*n)/100 )
+    i = Simple interest
+    p = Principal amount
+    r = Rate of interest
     n = Number of years
 
 4. Write a C program to interchange two numbers.
