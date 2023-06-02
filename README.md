@@ -31,6 +31,13 @@ division,subtraction).
    kilometer and  convert it in to meter, feet,
    inches and centimeter
 
+```c
+   1km = 1000 m 
+   1km = 3281 feet
+   1km = 39370 inches 
+   1km = 100000 cm 
+```
+
 6. Write a program to compute Fahrenheit from
    centigrade (f=**1.8*c +32**)           
 
