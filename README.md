@@ -8,11 +8,14 @@ List of Experiments :
 division,subtraction).
 
 2. Write a program to find area of triangle
-  $$
-    a= h * b * 0.5
-  $$
-    a = area h = height b = base
+  
+```c
+    a = h * b * 0.5
+    a = area 
+    h = height 
+    b = base
 
+```
 3. Write a program to calculate simple interest 
    ```c
     i = (p * r * n ) / 100 
