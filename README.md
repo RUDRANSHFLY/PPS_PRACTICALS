@@ -39,7 +39,11 @@ division,subtraction).
 ```
 
 6. Write a program to compute Fahrenheit from
-   centigrade (f=**1.8*c +32**)           
+   centigrade 
+   
+   ```c
+   f = (1.8 * c) + 32      
+   ```     
 
 7. Write a C program to find out distance travelled by the equation d = ut + at^2
 
