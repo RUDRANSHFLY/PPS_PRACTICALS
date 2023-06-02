@@ -1,6 +1,8 @@
 # PPS_PRACTICALS
+$$
 
 here there will be code of all practicals of PPS (Programming for Problem Solving) (3110003) and outputs of code made for GTU
+$$
 
 List of Experiments :
 1. Write a program to that performs as calculator ( addition, multiplication,
