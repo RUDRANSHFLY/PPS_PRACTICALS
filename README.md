@@ -1,14 +1,16 @@
 # PPS_PRACTICALS
-$$
 
 here there will be code of all practicals of PPS (Programming for Problem Solving) (3110003) and outputs of code made for GTU
-$$
+
 
 List of Experiments :
 1. Write a program to that performs as calculator ( addition, multiplication,
 division,subtraction).
 
-2. Write a program to find area of triangle(a=h*b*.5)
+2. Write a program to find area of triangle
+  $$
+    a= h * b * 0.5
+  $$
     a = area h = height b = base
 
 3. Write a program to calculate simple interest 
