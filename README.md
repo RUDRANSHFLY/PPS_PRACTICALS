@@ -45,24 +45,31 @@ division,subtraction).
    f = (1.8 * c) + 32      
    ```     
 
-7. Write a C program to find out distance travelled by the equation d = ut + at^2
+7.
+     Write a C program to find out distance travelled by the equation 
+     d = ut + at^2
 
-8. Write a C program to find that the accepted number is Negative, or Positive or Zero.
+8.
+     Write a C program to find that the accepted number is Negative, or Positive or Zero.
 
-9. Write a program to read marks of a student from keyboard whether the student is pass
-   or fail(using if else)
+9. 
+    Write a program to read marks of a student from keyboard whether the student is pass or fail(using if else)
 
-10. Write a program to read three numbers from keyboard and find out maximum out of
-    these three. (nested if else)
+10. 
+     Write a program to read three numbers from keyboard and find out maximum out of these three. (nested if else)
 
-11. Write a C program to check whether the entered character is capital, small letter,
-    digit orany special character.12. Write a program to read marks from keyboard and your program should display
+11.
+     Write a C program to check whether the entered character         is capital, small letter, digit orany special character.
+
+
+12. 
+    Write a program to read marks from keyboard and your program should display
     equivalent grade according to following table(if else ladder)
-    Marks Grade
+   `  Marks Grade
     100 - 80 Distinction
     79 - 60 First Class
     59 - 40 Second Class
-    < 40 Fail
+    < 40 Fail`
 
 13. Write a c program to prepare pay slip using following data.Da = 10% of basic, Hra = 7.50% of
     basic, Ma = 300,
