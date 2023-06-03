@@ -65,11 +65,13 @@ division,subtraction).
 12. 
     Write a program to read marks from keyboard and your program should display
     equivalent grade according to following table(if else ladder)
-   `  Marks Grade
+   ``` c
+     Marks Grade
     100 - 80 Distinction
     79 - 60 First Class
     59 - 40 Second Class
-    < 40 Fail`
+    < 40 Fail
+  ```
 
 13. Write a c program to prepare pay slip using following data.Da = 10% of basic, Hra = 7.50% of
     basic, Ma = 300,
