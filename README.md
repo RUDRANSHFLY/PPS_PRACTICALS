@@ -73,9 +73,15 @@ division,subtraction).
     < 40 Fail
   ```
 
-13. Write a c program to prepare pay slip using following data.Da = 10% of basic, Hra = 7.50% of
-    basic, Ma = 300,
-    Pf = 12.50% of basic, Gross = basic + Da + Hra + Ma, Nt = Gross – Pf.
+13. Write a c program to prepare pay slip using following data.
+   ```c
+    Da = 10% of basic
+    Hra = 7.50% of basic 
+    Ma = 300
+    Pf = 12.50% of basic 
+    Gross = basic + Da + Hra + Ma 
+    Nt = Gross – Pf.
+   ```
 14. Write a C program to read no 1 to 7 and print relatively day Sunday to Saturday.
 
 15. Write a C program to find out the Maximum and Minimum number from given
