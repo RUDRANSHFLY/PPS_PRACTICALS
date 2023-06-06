@@ -129,15 +129,19 @@ heightgreater than 170 and weight less than 50,
 
 ```
 2.
+```ruby
         *
        * *
       * * * 
      * * * *
     * * * * *
+```
 
 3.
+```ruby
     *****
     ****
     ***
     **
     *
+```
